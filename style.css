@@ -35,14 +35,20 @@
     margin: 0;
     padding: 0;
 }
-.page {
-	
-}
+
 .entete{
-    background-color: hotpink;
+    background-color: rgb(28, 61, 133);
+    padding: 10px;
 }
 .colonnes {
     background-color: deepskyblue;
+}
+.titre{
+    font-size: 36px;
+    color: #fff;
+}
+.titre:nth-child(2){
+    font-style: italic;
 }
 .colonne_menu{
     background-color: gold;
@@ -51,7 +57,9 @@
     background-color: lightgreen;
 }
 .pieddepage{
-    background-color: lightgray;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
 }
 
 
