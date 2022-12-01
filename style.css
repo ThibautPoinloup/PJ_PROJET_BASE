@@ -54,14 +54,54 @@
     background-color: gold;
 }
 .colonne_contenu {
-    background-color: lightgreen;
+    background-color: rgb(230, 230, 230);
+    margin: 10px;
 }
 .pieddepage{
     background-color: #000;
     color: #fff;
     text-align: center;
+    height: 60px;
+    line-height: 60px;
 }
 
+h1{
+    background-color: rgb(194, 0, 0);
+    margin: 10px;
+    margin-bottom: 20px;
+    border-bottom: 5px solid rgb(248, 175, 19);
+}
 
+h2{
+    margin: 20px;
+    color: rgb(12, 39, 114);
+    font-size: 28px;
+    font-variant: small-caps;
+}
+
+strong{
+    color: rgb(248, 175, 19);
+    font-weight: inherit;
+}
+
+em{
+    color: rgb(194, 0, 0);
+}
+
+.introduction{
+    font-style: italic;
+    border: 1px solid rgb(248, 175, 19);
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.colonne_contenu p a{
+    font-weight: bold;
+}
+
+.colonne_contenu p a:hover{
+    color: rgb(194, 0, 0);
+    text-decoration: none;
+}
 
 
