@@ -55,7 +55,7 @@
 }
 .colonne_contenu {
     background-color: rgb(230, 230, 230);
-    margin: 10px;
+    padding:10px;
 }
 .pieddepage{
     background-color: #000;
@@ -91,7 +91,7 @@ em{
 .introduction{
     font-style: italic;
     border: 1px solid rgb(248, 175, 19);
-    margin: 10px;
+    padding: 10px;
     border-radius: 10px;
 }
 
